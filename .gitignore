@@ -1,0 +1,33 @@
+# Java compiled files
+*.class
+
+# NetBeans build files (auto-generated)
+build/
+nbbuild/
+nbproject/private/
+nbproject/build-impl.xml
+
+# NetBeans cache files
+nbproject/Makefile-*
+dist/
+nbproject/genfiles.properties
+build.xml
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Logs
+*.log
+
+# Miscellaneous archives
+*.zip
+
+# Exclude NetBeans internal libraries
+lib/CopyLibs/
