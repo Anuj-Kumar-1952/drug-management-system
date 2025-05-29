@@ -1,4 +1,8 @@
+package module;
 
+
+import module.AdminDashboard;
+import module.PharmacistDashboard;
 import DAO.ConnectionProvider;
 import javax.swing.JOptionPane;
 import java.sql.Connection;
